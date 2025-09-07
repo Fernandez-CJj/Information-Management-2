@@ -1,0 +1,7 @@
+C:\Users\CJ\Desktop\IM2\HM1\HM1\bin\Debug\HM1.exe.config
+C:\Users\CJ\Desktop\IM2\HM1\HM1\bin\Debug\HM1.exe
+C:\Users\CJ\Desktop\IM2\HM1\HM1\bin\Debug\HM1.pdb
+C:\Users\CJ\Desktop\IM2\HM1\HM1\obj\Debug\HM1.csproj.AssemblyReference.cache
+C:\Users\CJ\Desktop\IM2\HM1\HM1\obj\Debug\HM1.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Desktop\IM2\HM1\HM1\obj\Debug\HM1.exe
+C:\Users\CJ\Desktop\IM2\HM1\HM1\obj\Debug\HM1.pdb
