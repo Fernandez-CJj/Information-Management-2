@@ -1,0 +1,7 @@
+C:\Users\CJ\Desktop\IM2\SW1\primeOrComposite\primeOrComposite\bin\Debug\primeOrComposite.exe.config
+C:\Users\CJ\Desktop\IM2\SW1\primeOrComposite\primeOrComposite\bin\Debug\primeOrComposite.exe
+C:\Users\CJ\Desktop\IM2\SW1\primeOrComposite\primeOrComposite\bin\Debug\primeOrComposite.pdb
+C:\Users\CJ\Desktop\IM2\SW1\primeOrComposite\primeOrComposite\obj\Debug\primeOrComposite.csproj.AssemblyReference.cache
+C:\Users\CJ\Desktop\IM2\SW1\primeOrComposite\primeOrComposite\obj\Debug\primeOrComposite.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Desktop\IM2\SW1\primeOrComposite\primeOrComposite\obj\Debug\primeOrComposite.exe
+C:\Users\CJ\Desktop\IM2\SW1\primeOrComposite\primeOrComposite\obj\Debug\primeOrComposite.pdb

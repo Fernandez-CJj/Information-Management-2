@@ -1,0 +1,6 @@
+C:\Users\CJ\Desktop\IM2\SW1\dollarToPesoYen\dollarToPesoYen\obj\Debug\dollarToPesoYen.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Desktop\IM2\SW1\dollarToPesoYen\dollarToPesoYen\bin\Debug\dollarToPesoYen.exe.config
+C:\Users\CJ\Desktop\IM2\SW1\dollarToPesoYen\dollarToPesoYen\bin\Debug\dollarToPesoYen.exe
+C:\Users\CJ\Desktop\IM2\SW1\dollarToPesoYen\dollarToPesoYen\bin\Debug\dollarToPesoYen.pdb
+C:\Users\CJ\Desktop\IM2\SW1\dollarToPesoYen\dollarToPesoYen\obj\Debug\dollarToPesoYen.exe
+C:\Users\CJ\Desktop\IM2\SW1\dollarToPesoYen\dollarToPesoYen\obj\Debug\dollarToPesoYen.pdb
