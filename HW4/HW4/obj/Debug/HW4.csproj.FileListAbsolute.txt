@@ -1,0 +1,10 @@
+C:\Users\CJ\Desktop\IM2\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\CJ\Desktop\IM2\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\CJ\Desktop\IM2\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\CJ\Desktop\IM2\HW4\HW4\obj\Debug\HW4.Form1.resources
+C:\Users\CJ\Desktop\IM2\HW4\HW4\obj\Debug\HW4.Properties.Resources.resources
+C:\Users\CJ\Desktop\IM2\HW4\HW4\obj\Debug\HW4.csproj.GenerateResource.cache
+C:\Users\CJ\Desktop\IM2\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Desktop\IM2\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\CJ\Desktop\IM2\HW4\HW4\obj\Debug\HW4.pdb
+C:\Users\CJ\Desktop\IM2\HW4\HW4\obj\Debug\HW4.Form2.resources
